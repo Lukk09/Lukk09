@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Lukk09
+- Editor de codigo iniciante
 
-- 👀 I’m interested in ...jvs
-- 🌱 I’m currently learning ...jvs
-- 💞️ I’m looking to collaborate on .nada ainda
-- 📫 How to reach me amazonas manaus
+- Interessado em Python
+
 
 
 <!---
